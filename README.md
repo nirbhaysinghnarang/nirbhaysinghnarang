@@ -5,5 +5,4 @@
 
 <p align = "left">
   <img src = "https://github-readme-stats.vercel.app/api?username=nirbhaysinghnarang&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nirbhaysinghnarang&hide=css,java,html&theme=tokyonight">
 </p>
